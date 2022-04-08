@@ -9,7 +9,7 @@ CREATE TABLE student
   gender         	CHAR(1) NOT NULL,
   PRIMARY KEY  (studentnbr )
  );
- 
+ //comment
 CREATE TABLE lecturer
 ( lecturernbr       CHAR(4)  NOT NULL,
   firstname         VARCHAR(20) NOT NULL,
